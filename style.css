@@ -1,0 +1,18 @@
+.table-showed{
+	text-align: center; 
+	margin:0 auto;
+	width:500px;
+	height:200px;
+	font-family: "Microsoft YaHei" ! important;
+	font-size: 16px;
+	font-weight: bold;
+}
+.table-showed th{
+	text-align: center;
+	font-size: 18px;
+}
+table, th, td
+{
+    border: 1px solid black;
+    font-family: "Microsoft YaHei" ! important;
+}

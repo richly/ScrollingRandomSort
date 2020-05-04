@@ -1,5 +1,4 @@
-# ScrollingRandomSort
-## 随机滚动排序
+# ScrollingRandomSort（随机滚动排序）随机滚动排序
 
 # Features：
 * 可用于评审、答辩、提问等场合对已经确定人员的名单，给予随机的顺序号。

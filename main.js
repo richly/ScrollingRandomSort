@@ -1,13 +1,12 @@
-var order = 0;
+﻿var order = 0;
 var status = "start";
 var randomSortLoop;
 var itemsSheetHtml = "";
 var itemsSheet = document.getElementById("itemsSheet");
 
-
-var items = ["a","b","c","d",
-"e","f","g","h",
-"i","j","k","l","m"];
+//随机选项修改处
+var items = ["Allen","Bob","Cindy","David",
+"Erric","Fox","Goslin","Henry","Issac","Jerry","Kate","Luis","Melody"]; 
 
 window.onload = function() {
 	itemsSheetHtml += "<table class=\"table  table-showed\"><tr><th style=\"border: 1px solid black;\">序号</th><th style=\"border: 1px solid black;\">名称</th></tr>";
